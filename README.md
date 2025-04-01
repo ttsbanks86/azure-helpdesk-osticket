@@ -1,13 +1,13 @@
 # OSTicket Deployment Project (Azure VM)
 
-This project documents the deployment of the open-source support ticket system *OSTicket* on a Windows Server 2022 virtual machine in Microsoft Azure.
+This project documents the deployment of the open-source support ticket system *OSTicket* on a Windows 10 virtual machine in Microsoft Azure.
 
 ---
 
 ## Tools Used
 
 - Microsoft Azure  
-- Windows Server 2022  
+- Windows 10 (Azure VM)  
 - IIS (Internet Information Services)  
 - PHP  
 - MySQL (XAMPP / HeidiSQL)  
